@@ -1,0 +1,24 @@
+body {
+    background-color: #1f1f2e;
+}
+
+h1 {
+    padding: .75em;
+    margin: auto;
+    text-align: center;
+    color: antiquewhite;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+div {
+    margin: auto;
+    padding: 1em;
+}
+
+p {
+    text-align: center;
+    color: antiquewhite;
+    font-size: 60px;
+    margin: auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
